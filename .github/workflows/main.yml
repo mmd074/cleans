@@ -3,7 +3,7 @@ name: Parse IP and Port
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'     # هر روز ساعت 4 صبح UTC (هر 24 ساعت)
+    - cron: '0 * * * *'     # هر ساعت
 
 jobs:
   parse:
@@ -19,8 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install requests
+        run: pip install requests
 
       - name: Run parser
         run: python parse_nodes.py
