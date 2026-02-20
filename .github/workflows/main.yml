@@ -1,0 +1,40 @@
+name: Parse IP and Port
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # هر 6 ساعت یکبار اجرا می‌شود
+  workflow_dispatch:  # امکان اجرای دستی
+  push:
+    branches: [ main ]
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Run parser
+        run: python parse_nodes.py
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v3
+        with:
+          name: nodes-json
+          path: nodes.json
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add nodes.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update nodes.json" && git push)
