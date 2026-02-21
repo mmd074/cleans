@@ -1,36 +1,48 @@
-name: Parse IP and Port
+import requests
+import random
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '*/5 * * * *'
+def get_flag_emoji(code):
+    """تبدیل کد ۲ حرفی کشور به ایموجی پرچم"""
+    if len(code) != 2 or not code.isalpha():
+        return code  # اگر کد معتبر نبود، همون متن اصلی
+    
+    # کدهای ASCII را به Regional Indicator تبدیل می‌کند
+    base = ord("🇦") - ord("A")
+    flag = chr(base + ord(code[0].upper())) + chr(base + ord(code[1].upper()))
+    return flag
 
-jobs:
-  parse:
-    runs-on: ubuntu-latest
+url = "https://raw.githubusercontent.com/tadesomika/ALVA/refs/heads/main/active.txt"
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+response = requests.get(url)
+response.raise_for_status()
+lines = response.text.strip().split("\n")
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+# ساخت لیست معتبر از همه لاین‌ها
+valid_nodes = []
+for line in lines:
+    parts = [p.strip() for p in line.split(",")]
+    if len(parts) >= 4:
+        ip = parts[0]
+        port = parts[1]
+        name = parts[2]
+        dc = parts[3]
+        
+        # استخراج ۲ حرف اول برای پرچم و بقیه نام سرور
+        country_code = name[:2].upper()
+        server_name = name[2:] if len(name) > 2 else name
+        
+        # اضافه کردن پرچم فقط اگر ۲ حرف معتبر باشد
+        display_name = f"{get_flag_emoji(country_code)}{server_name}"
+        
+        valid_nodes.append(f"{ip}:{port}#{display_name}_{dc}")
 
-      - name: Install dependencies
-        run: pip install requests
+# انتخاب کاملاً رندوم 150 تا
+num_to_select = min(150, len(valid_nodes))
+random_nodes = random.sample(valid_nodes, num_to_select)
 
-      - name: Run parser
-        run: python parse_nodes.py
+# ذخیره در فایل
+with open("nodes.txt", "w", encoding="utf-8") as f:
+    for node in random_nodes:
+        f.write(f"{node}\n")
 
-      - name: Commit and push always
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add nodes.txt
-          git commit -m "Update nodes $(date +%Y-%m-%d\ %H:%M)" || true
-          git push
+print(f"Done! {len(valid_nodes)} total, {len(random_nodes)} random selected.")
