@@ -3,7 +3,7 @@ name: Parse IP and Port
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'     # هر ساعت
+    - cron: '*/5 * * * *'   # هر 5 دقیقه
 
 jobs:
   parse:
