@@ -3,7 +3,7 @@ name: Parse IP and Port
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'   # هر 5 دقیقه
+    - cron: '0 4 * * *'     # هر روز ساعت 4 صبح UTC (هر 24 ساعت)
 
 jobs:
   parse:
@@ -19,7 +19,8 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install requests
 
       - name: Run parser
         run: python parse_nodes.py
@@ -28,6 +29,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Update nodes $(date +%Y%m%d-%H%M)" || echo "No changes"
-          git push
+          git add nodes.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update nodes.txt" && git push)
