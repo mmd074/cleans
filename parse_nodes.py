@@ -11,7 +11,7 @@ def get_flag_emoji(code):
     flag = chr(base + ord(code[0].upper())) + chr(base + ord(code[1].upper()))
     return flag
 
-url = "https://raw.githubusercontent.com/tadesomika/ALVA/refs/heads/main/active.txt"
+url = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt"
 
 response = requests.get(url)
 response.raise_for_status()
