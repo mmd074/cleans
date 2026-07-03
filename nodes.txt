@@ -1,150 +1,150 @@
-139.28.221.213:48004#🇫🇮FI_PSERVERS Enterprise Network
-132.226.163.224:8443#🇧🇷BR_Oracle Public Cloud
-132.226.21.116:6056#🇰🇷KR_Oracle Public Cloud
-188.132.192.194:8443#🇹🇷TR_TradeZone LLC
-213.183.44.184:443#🇩🇪DE_Melbikomas UAB
-31.133.0.167:2053#🇵🇱PL_BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
-80.211.249.240:8443#🇵🇱PL_Aruba S.p.A. - Cloud Services PL1
-3.127.55.133:443#🇩🇪DE_Amazon Data Services Ireland Ltd
-130.162.193.183:15401#🇦🇺AU_Oracle Public Cloud
-146.235.209.40:58869#🇺🇸US_Oracle Corporation
-88.218.77.42:8443#🇫🇷FR_RACKNERD-FR
-91.107.166.26:8888#🇩🇪DE_Hetzner Online GmbH
-212.227.144.37:8443#🇪🇸ES_IONOS SE
-158.179.206.143:443#🇸🇪SE_oracle
-185.17.2.103:8443#🇫🇮FI_PSERVERS Enterprise Network
-146.59.19.208:2053#🇵🇱PL_OVH Sp. z o. o.
-147.135.10.209:443#🇺🇸US_OVH US LLC
-70.34.244.250:12531#🇵🇱PL_The Constant Company
-77.73.71.196:443#🇱🇻LV_SIA VEESP
-129.151.198.3:8443#🇸🇪SE_Oracle Corporation
-150.230.5.34:45681#🇯🇵JP_Oracle Corporation
-147.45.72.36:8443#🇸🇪SE_AEZA GROUP LLC
-192.9.138.69:21009#🇺🇸US_Oracle Corporation
-213.1.145.50:443#🇬🇧GB_BT-R101-TEST
 103.75.118.144:2053#🇯🇵JP_Oneprovider.com - Japan Infrastructure
-185.103.255.196:443#🇳🇱NL_FIRST SERVER LIMITED
-91.192.102.170:8443#🇨🇭CH_Datasource AG
-94.159.98.23:2053#🇩🇪DE_H2.NEXUS Frankfurt Network
-129.159.84.71:443#🇺🇸US_Oracle Corporation
-193.109.69.78:8443#🇳🇱NL_HOSTKEY B.V.
-45.135.165.245:443#🇩🇪DE_GLB Bulut Teknolojisi Limited Sirketi
-213.183.51.71:443#🇳🇱NL_Melbicom infrastructure
-125.7.24.251:443#🇦🇺AU_Macquarie Telecom
-95.182.96.30:8443#🇫🇷FR_CGI GLOBAL LIMITED
-185.114.72.31:2053#🇪🇸ES_FIRST SERVER
-18.216.55.100:443#🇺🇸US_Amazon Technologies Inc.
-139.162.133.162:36075#🇩🇪DE_139.162.0.0/16
-179.43.144.10:8000#🇨🇭CH_PRIVATE LAYER INC
-146.103.33.57:443#🇳🇱NL_Brander Group Inc
-51.159.6.227:8443#🇫🇷FR_Scaleway
-91.218.212.223:443#🇺🇦UA_TOV 'Dream Line Holding'
-162.19.247.245:443#🇩🇪DE_OVH GmbH
-91.149.253.249:443#🇵🇱PL_Baxet Group Inc.
-158.247.250.157:81#🇰🇷KR_The Constant Company
-91.245.225.79:2053#🇨🇭CH_GLB Bulut Teknolojisi Limited Sirketi
-85.198.109.79:2053#🇷🇺RU_Hosting technology LTD
-74.48.140.177:443#🇺🇸US_MULTACOM CORPORATION
-95.140.157.183:2053#🇩🇪DE_lease for Timeweb
-77.221.143.39:443#🇬🇧GB_Aeza International LTD
-152.67.101.72:23010#🇦🇺AU_Oracle Public Cloud
-80.76.34.190:443#🇳🇱NL_FIRST SERVER
-47.74.254.191:8900#🇸🇬SG_Alibaba Cloud - SG
-94.230.165.18:5581#🇷🇺RU_UNIS Network
-41.76.42.116:443#🇲🇺MU_Mauritius Telecom Ltd
-185.36.143.166:443#🇳🇱NL_Brainoza OU
-132.145.84.148:39567#🇰🇷KR_Oracle Public Cloud
-37.120.186.205:2083#🇩🇪DE_netcup GmbH
-31.25.29.199:443#🇸🇪SE_NetCrafters OU
-31.133.0.122:2053#🇵🇱PL_BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
-147.45.72.32:8443#🇸🇪SE_AEZA GROUP LLC
-18.184.55.249:443#🇩🇪DE_A100 ROW GmbH
-103.90.75.41:8443#🇳🇱NL_CLODO CLOUD SERVICE CO. L.L.C
-129.153.91.86:3701#🇺🇸US_Oracle Corporation
-139.162.133.162:27936#🇩🇪DE_139.162.0.0/16
-195.123.241.122:50008#🇺🇸US_Total server solutions LLC
-139.162.133.162:15458#🇩🇪DE_139.162.0.0/16
-46.8.237.3:443#🇱🇻LV_CGI GLOBAL LIMITED
-194.58.33.218:443#🇩🇪DE_nuxtcloud
-217.110.20.141:443#🇩🇪DE_Colt DC
-146.56.140.79:44699#🇰🇷KR_Cloudflare London
-3.68.31.54:443#🇩🇪DE_A100 ROW GmbH
-23.94.56.111:20338#🇺🇸US_RackNerd LLC
-152.69.192.40:57005#🇯🇵JP_Oracle Corporation
-91.149.239.206:443#🇺🇸US_BG-NETWORK
-77.91.69.141:8443#🇮🇱IL_Webhost LLC
-63.32.194.15:8443#🇮🇪IE_Amazon Data Services Ireland Limited
-65.109.186.249:2053#🇫🇮FI_Hetzner Online GmbH
-65.109.161.254:8443#🇫🇮FI_Hetzner Online GmbH
-185.82.218.224:8443#🇧🇬BG_ITLDC EU2.SOF Datacenter Network
-69.28.83.244:443#🇨🇦CA_Atlantic.Net - Toronto
-217.144.188.147:2053#🇫🇮FI_AEZA GROUP LLC
-31.129.49.103:443#🇷🇺RU_Selectel Network
-5.196.27.246:8443#🇫🇷FR_OVH SAS
-176.97.66.175:443#🇦🇪AE_3nt solutions LLP
-64.110.70.205:23022#🇰🇷KR_Oracle Corporation
-118.27.12.40:38443#🇯🇵JP_GMO Internet
-80.211.249.68:2053#🇵🇱PL_Aruba S.p.A. - Cloud Services PL1
-23.95.61.179:15160#🇺🇸US_RackNerd LLC
-79.124.7.236:444#🇧🇬BG_DA International Group Ltd. - AlphaVPS
-168.100.9.81:443#🇳🇱NL_BL Networks
-31.129.42.100:2053#🇷🇺RU_Selectel Network
-185.233.80.60:2053#🇩🇪DE_FIRST SERVER
-65.109.201.6:2053#🇫🇮FI_Hetzner Online GmbH
-34.168.95.100:12388#🇺🇸US_Google LLC
-31.129.48.222:8443#🇷🇺RU_Selectel Network
-103.13.208.242:443#🇬🇧GB_O.M.C. COMPUTERS & COMMUNICATIONS LTD
-185.105.118.126:2053#🇫🇮FI_PSERVERS Enterprise Network
-147.45.253.105:8443#🇷🇺RU_JSC TIMEWEB
-139.162.133.162:15675#🇩🇪DE_139.162.0.0/16
-91.107.166.26:2053#🇩🇪DE_Hetzner Online GmbH
-86.104.73.185:443#🇰🇿KZ_WorkTitans B.V.
-139.162.133.162:11285#🇩🇪DE_139.162.0.0/16
-107.173.87.103:443#🇺🇸US_RackNerd LLC
-18.193.131.26:443#🇩🇪DE_A100 ROW GmbH
-158.180.49.11:2053#🇩🇪DE_oracle
-168.138.198.7:27560#🇯🇵JP_Oracle Public Cloud
-195.123.211.204:81#🇱🇻LV_Green Floid LLC
+18.196.70.197:443#🇩🇪DE_A100 ROW GmbH
+185.82.218.224:9443#🇧🇬BG_ITLDC EU2.SOF Datacenter Network
 185.243.112.197:443#🇳🇱NL_CrownCloud
-95.216.148.189:8443#🇫🇮FI_Hetzner Online GmbH
-18.159.105.97:443#🇩🇪DE_A100 ROW GmbH
-185.223.93.86:443#🇳🇱NL_This range is used for dynamic customer pools.
-168.138.171.70:23280#🇸🇬SG_Oracle Public Cloud
-18.192.93.64:443#🇩🇪DE_Amazon Data Services Ireland Ltd
-80.211.249.240:2053#🇵🇱PL_Aruba S.p.A. - Cloud Services PL1
-188.225.34.155:443#🇷🇺RU_TimeWeb Ltd.
+152.70.143.175:29187#🇺🇸US_Oracle Corporation
+135.181.151.136:2053#🇫🇮FI_Hetzner Online GmbH
+91.149.202.142:443#🇬🇧GB_BG-NETWORK
 146.0.73.202:443#🇳🇱NL_HOSTKEY B.V.
-168.138.197.147:12345#🇯🇵JP_Oracle Public Cloud
-212.111.89.16:443#🇳🇱NL_undefined
-37.187.98.185:443#🇫🇷FR_OVH SAS
 146.56.99.255:56789#🇰🇷KR_Oracle Corporation
-185.112.82.28:443#🇫🇮FI_Creanova
-178.208.76.68:443#🇨🇿CZ_Iron Hosting Centre Ltd.
-103.102.228.113:443#🇳🇱NL_Individual Entrepreneur Anton Levin
-3.67.232.136:443#🇩🇪DE_Amazon Data Services Ireland Ltd
-141.148.1.34:38589#🇺🇸US_Oracle Corporation
-93.113.171.31:443#🇳🇱NL_Baxet Group Inc.
-95.179.140.212:443#🇳🇱NL_JW Lucasweg 35
-217.142.138.61:37914#🇰🇷KR_Oracle Svenska AB
-158.101.146.3:54516#🇯🇵JP_Oracle Public Cloud
-80.76.32.165:443#🇩🇪DE_FIRST SERVER
-212.237.219.99:443#🇫🇮FI_HOSTKEY B.V.
-138.2.48.109:26412#🇯🇵JP_Oracle Corporation
-139.162.133.162:52982#🇩🇪DE_139.162.0.0/16
-49.12.243.75:2053#🇩🇪DE_Hetzner Online GmbH
-107.173.30.154:27149#🇺🇸US_ColoCrossing
-2.59.183.140:443#🇳🇱NL_SERVA ONE LTD
-216.128.140.253:26376#🇺🇸US_The Constant Company
-176.10.125.114:443#🇨🇭CH_Datasource AG
-170.64.152.77:7443#🇦🇺AU_DigitalOcean
+139.162.133.162:58990#🇩🇪DE_139.162.0.0/16
+85.193.91.193:8443#🇷🇺RU_JSC TIMEWEB
+45.135.165.245:443#🇩🇪DE_GLB Bulut Teknolojisi Limited Sirketi
+195.133.38.227:443#🇳🇱NL_NKtelecom INC
+2.59.183.233:444#🇳🇱NL_SERVA ONE LTD
+95.171.21.193:443#🇷🇺RU_Universum bit Ltd.
+140.238.5.75:13644#🇰🇷KR_Oracle Public Cloud
+135.181.250.100:2053#🇫🇮FI_Hetzner Online GmbH
+139.162.133.162:11285#🇩🇪DE_139.162.0.0/16
+135.181.250.100:8443#🇫🇮FI_Hetzner Online GmbH
 185.252.144.185:2053#🇫🇮FI_FIRST SERVER
-144.22.144.168:4242#🇧🇷BR_Oracle Corporation
-92.241.18.106:443#🇷🇺RU_JSC Svyazinform
-185.105.117.222:443#🇷🇺RU_PSERVERS Enterprise Network
-96.126.112.12:38298#🇺🇸US_Linode
-45.76.198.248:443#🇯🇵JP_Vultr Holdings
+129.153.127.204:20756#🇺🇸US_Oracle Corporation
+45.82.80.96:443#🇸🇪SE_Internetport Sweden AB
+194.58.33.218:443#🇩🇪DE_nuxtcloud
+23.94.122.243:29500#🇺🇸US_HostPapa
+95.46.1.22:2053#🇷🇺RU_Stolica Telecom Ltd.
+185.36.143.166:443#🇳🇱NL_Brainoza OU
+80.90.183.75:2053#🇰🇿KZ_lease for Timeweb
+37.48.90.120:443#🇳🇱NL_LeaseWeb Netherlands B.V.
+139.162.133.162:15675#🇩🇪DE_139.162.0.0/16
+41.76.42.116:443#🇲🇺MU_Mauritius Telecom Ltd
+146.56.140.79:22561#🇰🇷KR_Cloudflare London
+65.109.161.254:2053#🇫🇮FI_Hetzner Online GmbH
+91.149.238.88:443#🇬🇧GB_Baxet Group Inc.
+194.53.54.84:2053#🇫🇮FI_PSERVERS Enterprise Network
+90.156.211.232:8443#🇷🇺RU_JSC TIMEWEB
+139.162.133.162:46785#🇩🇪DE_139.162.0.0/16
+31.172.72.83:443#🇩🇪DE_www.fornex.com
+185.66.165.51:443#🇩🇪DE_Perfecto Mobile UK Ltd (/24 used in Germany)
+41.76.42.118:443#🇲🇺MU_Mauritius Telecom Ltd
+150.230.27.23:16504#🇨🇦CA_Oracle Corporation
+62.84.102.169:8443#🇳🇱NL_Amsterdam
+150.230.33.247:19131#🇺🇸US_Oracle Corporation
+185.94.164.160:443#🇳🇱NL_FIRST SERVER LIMITED
+45.88.67.65:443#🇳🇱NL_Baykov Ilya Sergeevich
+45.144.48.186:8443#🇵🇱PL_Newserverlife LLC
+109.185.236.240:443#🇲🇩MD_JSC Moldtelecom S.A.
+185.105.118.126:8443#🇫🇮FI_PSERVERS Enterprise Network
+18.184.55.249:443#🇩🇪DE_A100 ROW GmbH
+46.17.102.249:2053#🇳🇱NL_HOSTKEY B.V.
+144.24.195.115:23010#🇫🇷FR_Oracle Corp UK Ltd
+147.45.173.149:443#🇳🇱NL_Timeweb
+2.59.183.210:443#🇳🇱NL_SERVA ONE LTD
+168.138.197.147:12345#🇯🇵JP_Oracle Public Cloud
+195.135.252.148:2053#🇱🇻LV_SIA VEESP
+213.183.44.184:443#🇩🇪DE_Melbikomas UAB
+109.169.76.23:443#🇬🇧GB_Iomart Managed Services Limited
+151.115.61.151:2053#🇵🇱PL_Warsaw
+185.120.59.207:2053#🇫🇷FR_Baykov Ilya Sergeevich
+74.48.4.29:37731#🇺🇸US_MULTACOM CORPORATION
+37.1.195.124:443#🇩🇪DE_IROKO Networks Corporation
+144.22.204.102:50317#🇧🇷BR_Oracle Corporation
+140.238.37.103:14782#🇯🇵JP_Oracle Public Cloud
+194.53.54.84:8443#🇫🇮FI_PSERVERS Enterprise Network
+145.239.88.255:2053#🇵🇱PL_OVH VPS WAW
+139.162.133.162:34956#🇩🇪DE_139.162.0.0/16
+78.40.117.65:2053#🇸🇪SE_ALEXHOST SRL
+89.35.131.5:443#🇳🇱NL_RCS Technologies FZE LLC
+35.157.240.237:443#🇩🇪DE_A100 ROW GmbH
+23.94.213.132:27149#🇺🇸US_HostPapa
+147.45.72.32:8443#🇸🇪SE_AEZA GROUP LLC
+103.45.245.208:2053#🇪🇸ES_O.M.C. COMPUTERS & COMMUNICATIONS LTD
+195.123.212.222:8443#🇱🇻LV_Green Floid LLC
+109.237.97.1:443#🇩🇪DE_nuxt.cloud hosting provider
+65.109.201.6:2053#🇫🇮FI_Hetzner Online GmbH
+88.218.76.170:443#🇫🇷FR_RACKNERD-FR
+168.138.171.70:23280#🇸🇬SG_Oracle Public Cloud
+78.40.116.136:2053#🇸🇪SE_ALEXHOST SRL
+88.198.18.246:8443#🇩🇪DE_HOS-512604
+86.104.73.185:443#🇰🇿KZ_WorkTitans B.V.
+185.234.66.91:443#🇹🇷TR_WorkTitans B.V.
+89.110.89.229:8443#🇷🇺RU_Hosting technology LTD
+142.132.178.99:443#🇩🇪DE_Hetzner Online GmbH
+141.11.91.67:8080#🇭🇰HK_Tusker Technologies Pty Ltd
+91.192.102.55:443#🇨🇭CH_Datasource AG
+31.133.0.124:2053#🇵🇱PL_BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
+185.17.2.103:8443#🇫🇮FI_PSERVERS Enterprise Network
+54.229.164.147:2053#🇮🇪IE_Amazon.com
+46.8.229.48:443#🇳🇱NL_CGI GLOBAL LIMITED
 217.144.188.147:8443#🇬🇧GB_Aeza International LTD
-89.111.172.106:8443#🇷🇺RU_Domain names registrar REG.RU
-2.56.206.114:8443#🇦🇲AM_Proitlab LLC
-95.216.140.177:443#🇫🇮FI_Hetzner Online GmbH
-46.32.184.75:443#🇱🇻LV_SIA VEESP
+18.193.131.26:443#🇩🇪DE_A100 ROW GmbH
+103.45.245.208:8443#🇪🇸ES_O.M.C. COMPUTERS & COMMUNICATIONS LTD
+94.242.53.158:2053#🇷🇺RU_SIA VEESP
+192.9.138.69:21009#🇺🇸US_Oracle Corporation
+193.42.62.215:8443#🇫🇷FR_Mo's Operations GmbH
+91.149.253.249:443#🇵🇱PL_Baxet Group Inc.
+188.132.192.194:8443#🇹🇷TR_TradeZone LLC
+23.95.113.61:443#🇺🇸US_RackNerd LLC
+85.192.60.129:443#🇬🇧GB_Aeza International LTD
+129.151.198.3:2053#🇸🇪SE_Oracle Corporation
+138.2.10.217:27446#🇯🇵JP_Oracle Corporation
+217.142.138.61:37914#🇰🇷KR_Oracle Svenska AB
+179.43.144.10:8000#🇨🇭CH_PRIVATE LAYER INC
+31.129.48.222:8443#🇷🇺RU_Selectel Network
+139.162.133.162:41419#🇩🇪DE_139.162.0.0/16
+104.234.50.53:443#🇺🇸US_Private Customer
+65.109.181.192:4475#🇫🇮FI_Hetzner Online GmbH
+82.97.249.34:2053#🇷🇺RU_Timeweb
+185.105.117.222:443#🇷🇺RU_PSERVERS Enterprise Network
+89.22.234.0:2053#🇸🇪SE_AEZA GROUP LLC
+185.103.255.142:443#🇳🇱NL_FIRST SERVER
+139.162.133.162:32856#🇩🇪DE_139.162.0.0/16
+85.198.109.79:8443#🇷🇺RU_Hosting technology LTD
+217.144.188.147:2053#🇫🇮FI_AEZA GROUP LLC
+139.162.133.162:56661#🇩🇪DE_139.162.0.0/16
+164.52.2.99:443#🇸🇬SG_UCUL-SG
+47.253.87.21:52315#🇺🇸US_Alibaba Cloud - US
+43.156.116.194:443#🇸🇬SG_6 COLLYER QUAY
+162.19.247.245:443#🇩🇪DE_OVH GmbH
+45.139.184.183:2053#🇷🇺RU_LLC Vpsville
+37.252.10.91:443#🇵🇱PL_IROKO Networks Corporation
+79.142.51.162:65000#🇰🇿KZ_SMARTNET TOO
+77.221.143.81:2053#🇫🇮FI_AEZA GROUP LLC
+135.125.123.246:5432#🇫🇷FR_OVH SAS
+95.217.186.94:9443#🇫🇮FI_Hetzner Online GmbH
+77.246.108.130:443#🇳🇱NL_Amsterdam
+23.94.43.51:443#🇺🇸US_RackNerd LLC
+54.37.235.201:443#🇵🇱PL_OVH Sp. z o. o.
+34.105.49.234:443#🇺🇸US_Google LLC
+138.3.222.124:46209#🇯🇵JP_Oracle Network Information Services
+96.126.112.12:38298#🇺🇸US_Linode
+103.90.75.141:2053#🇳🇱NL_CLODO CLOUD SERVICE CO. L.L.C
+192.9.135.182:7800#🇺🇸US_Oracle Corporation
+167.234.216.84:65501#🇺🇸US_Oracle Corporation
+163.5.207.235:443#🇳🇱NL_SERVA ONE LTD
+139.28.221.213:48004#🇫🇮FI_PSERVERS Enterprise Network
+139.162.133.162:36355#🇩🇪DE_139.162.0.0/16
+172.235.49.135:17973#🇺🇸US_Linode
+213.1.145.50:443#🇬🇧GB_BT-R101-TEST
+46.226.161.88:443#🇫🇮FI_AEZA GROUP LLC
+193.178.172.225:2053#🇳🇱NL_SERVERS TECH FZCO
+185.23.238.76:443#🇳🇱NL_Individual Entrepreneur Anton Levin
+188.132.192.194:2053#🇹🇷TR_TradeZone LLC
+138.2.231.58:45638#🇺🇸US_Oracle Corporation
+65.109.209.200:2095#🇫🇮FI_Hetzner Online GmbH
+188.130.206.93:2053#🇱🇻LV_CGI GLOBAL LIMITED
+91.245.225.79:8443#🇨🇭CH_GLB Bulut Teknolojisi Limited Sirketi
+152.67.211.114:58337#🇰🇷KR_Oracle Public Cloud
+147.45.147.212:8443#🇷🇺RU_JSC TIMEWEB
+45.77.25.6:27854#🇯🇵JP_Vultr Holdings
+158.179.206.143:443#🇸🇪SE_oracle
