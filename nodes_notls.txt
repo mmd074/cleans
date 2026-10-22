@@ -1,50 +1,50 @@
-18.159.105.97:2095#🇩🇪🛡️DE_(N.tls)A100 ROW GmbH
-95.182.96.30:2082#🇫🇷🛡️FR_(N.tls)CGI GLOBAL LIMITED
-35.157.240.237:2052#🇩🇪🛡️DE_(N.tls)A100 ROW GmbH
-192.9.135.182:2095#🇺🇸🛡️US_(N.tls)Oracle Corporation
-138.2.74.219:2082#🇸🇬🛡️SG_(N.tls)Cloudflare London
-158.180.49.11:8880#🇩🇪🛡️DE_(N.tls)oracle
-212.34.153.65:2086#🇳🇱🛡️NL_(N.tls)Amsterdam
-87.251.87.36:80#🇩🇪🛡️DE_(N.tls)nuxtcloud
-195.135.252.148:2086#🇱🇻🛡️LV_(N.tls)SIA VEESP
-138.2.48.109:2052#🇯🇵🛡️JP_(N.tls)Oracle Corporation
-147.75.230.207:8080#🇺🇸🛡️US_(N.tls)Aryaka Networks
-125.7.24.251:2052#🇦🇺🛡️AU_(N.tls)Macquarie Telecom
-129.151.198.3:2082#🇸🇪🛡️SE_(N.tls)Oracle Corporation
-85.198.109.79:2095#🇷🇺🛡️RU_(N.tls)Hosting technology LTD
-158.247.250.157:2082#🇰🇷🛡️KR_(N.tls)The Constant Company
-85.193.91.193:2086#🇷🇺🛡️RU_(N.tls)JSC TIMEWEB
-141.148.153.223:2086#🇺🇸🛡️US_(N.tls)Oracle Corporation
-193.160.96.232:2086#🇳🇱🛡️NL_(N.tls)FiberXpress BV
-139.162.133.162:8880#🇩🇪🛡️DE_(N.tls)139.162.0.0/16
-5.61.39.183:2095#🇩🇪🛡️DE_(N.tls)IROKO Networks Corporation
-31.172.72.83:8880#🇩🇪🛡️DE_(N.tls)Fornex Hosting S.L.
-95.46.1.22:2086#🇷🇺🛡️RU_(N.tls)Stolica Telecom Ltd.
-192.9.228.70:2052#🇺🇸🛡️US_(N.tls)Oracle Corporation
-5.34.209.139:2095#🇱🇻🛡️LV_(N.tls)SIA VEESP
-145.239.85.117:2052#🇵🇱🛡️PL_(N.tls)OVH VPS WAW
-41.76.42.116:8880#🇲🇺🛡️MU_(N.tls)Mauritius Telecom Ltd
-216.128.140.253:8880#🇺🇸🛡️US_(N.tls)The Constant Company
-89.110.66.154:2052#🇳🇱🛡️NL_(N.tls)Amsterdam
-91.197.3.157:2095#🇱🇻🛡️LV_(N.tls)SIA VEESP
-95.179.140.212:2082#🇳🇱🛡️NL_(N.tls)JW Lucasweg 35
-217.142.230.253:2052#🇯🇵🛡️JP_(N.tls)Oracle Corporation
-147.45.196.240:8880#🇩🇪🛡️DE_(N.tls)nuxtcloud
-91.245.225.79:2082#🇨🇭🛡️CH_(N.tls)GLB Bulut Teknolojisi Limited Sirketi
-45.89.52.247:2052#🇹🇷🛡️TR_(N.tls)WorkTitans B.V.
-129.146.46.164:8880#🇺🇸🛡️US_(N.tls)Oracle Corporation
-164.52.2.99:8880#🇸🇬🛡️SG_(N.tls)UCUL-SG
-193.42.62.215:2052#🇫🇷🛡️FR_(N.tls)Mo's Operations GmbH
-195.133.38.227:8080#🇳🇱🛡️NL_(N.tls)NKtelecom INC
-195.133.39.185:8080#🇳🇱🛡️NL_(N.tls)Individual Entrepreneur Anton Levin
-82.97.249.34:80#🇷🇺🛡️RU_(N.tls)Timeweb
-151.115.61.151:2082#🇵🇱🛡️PL_(N.tls)Warsaw
-158.101.39.0:2095#🇺🇸🛡️US_(N.tls)Oracle Public Cloud
-141.148.187.195:2082#🇺🇸🛡️US_(N.tls)Oracle Corporation
-103.45.245.208:2052#🇪🇸🛡️ES_(N.tls)O.M.C. COMPUTERS & COMMUNICATIONS LTD
-46.30.41.73:2086#🇳🇱🛡️NL_(N.tls)Iron Hosting Centre Ltd.
-129.151.198.3:8880#🇸🇪🛡️SE_(N.tls)Oracle Corporation
-164.52.2.100:8080#🇸🇬🛡️SG_(N.tls)UCUL-SG
-144.22.204.102:80#🇧🇷🛡️BR_(N.tls)Oracle Corporation
-91.90.193.24:8880#🇨🇭🛡️CH_(N.tls)Friendhosting LTD
-77.91.69.141:2082#🇮🇱🛡️IL_(N.tls)Webhost LLC
+193.42.62.215:80#🇫🇷🛡️FR_(N.tls)Mo's Operations GmbH
+193.178.172.225:2082#🇳🇱🛡️NL_(N.tls)SERVERS TECH FZCO
+129.146.114.239:2052#🇺🇸🛡️US_(N.tls)Oracle Corporation
+18.184.27.249:8080#🇩🇪🛡️DE_(N.tls)A100 ROW GmbH
+158.101.154.245:8880#🇯🇵🛡️JP_(N.tls)Oracle Public Cloud
+89.22.234.0:8880#🇫🇮🛡️FI_(N.tls)AEZA GROUP LLC
+212.34.146.6:80#🇳🇱🛡️NL_(N.tls)Amsterdam
+49.12.243.75:80#🇩🇪🛡️DE_(N.tls)Hetzner Online GmbH
+158.101.39.0:2082#🇺🇸🛡️US_(N.tls)Oracle Public Cloud
+45.11.1.118:8080#🇯🇵🛡️JP_(N.tls)CEGRGO-DigitalVM LLC - Tokyo
+23.94.213.132:8080#🇺🇸🛡️US_(N.tls)HostPapa
+45.77.25.6:80#🇯🇵🛡️JP_(N.tls)Vultr Holdings
+93.113.171.95:2095#🇳🇱🛡️NL_(N.tls)Baxet Group Inc.
+118.27.12.40:2082#🇯🇵🛡️JP_(N.tls)GMO Internet
+146.0.73.202:2052#🇳🇱🛡️NL_(N.tls)HOSTKEY B.V.
+45.76.198.248:8080#🇯🇵🛡️JP_(N.tls)Vultr Holdings
+152.228.191.232:2082#🇫🇷🛡️FR_(N.tls)SEVIN Jacques
+192.210.196.158:2086#🇺🇸🛡️US_(N.tls)RackNerd LLC
+88.218.76.170:2082#🇫🇷🛡️FR_(N.tls)RACKNERD-FR
+125.7.24.251:2086#🇦🇺🛡️AU_(N.tls)Macquarie Telecom
+188.225.34.155:2052#🇷🇺🛡️RU_(N.tls)TimeWeb Ltd.
+91.107.166.111:2082#🇩🇪🛡️DE_(N.tls)Hetzner Online GmbH
+138.2.18.82:8880#🇯🇵🛡️JP_(N.tls)Oracle Corporation
+91.245.225.69:80#🇨🇭🛡️CH_(N.tls)GLB Bulut Teknolojisi Limited Sirketi
+82.97.249.34:2086#🇷🇺🛡️RU_(N.tls)Timeweb
+176.10.125.114:2082#🇨🇭🛡️CH_(N.tls)Datasource AG
+132.145.84.148:80#🇰🇷🛡️KR_(N.tls)Oracle Public Cloud
+80.90.183.75:80#🇰🇿🛡️KZ_(N.tls)lease for Timeweb
+147.45.245.15:2082#🇷🇺🛡️RU_(N.tls)JSC TIMEWEB
+46.30.41.73:2052#🇳🇱🛡️NL_(N.tls)Iron Hosting Centre Ltd.
+95.182.96.30:80#🇫🇷🛡️FR_(N.tls)CGI GLOBAL LIMITED
+47.74.254.191:8880#🇸🇬🛡️SG_(N.tls)Alibaba Cloud - SG
+188.116.40.37:2052#🇵🇱🛡️PL_(N.tls)Artnet Sp. z o.o.
+43.130.105.166:2052#🇺🇸🛡️US_(N.tls)6 COLLYER QUAY
+129.152.2.127:8880#🇮🇹🛡️IT_(N.tls)Oracle Corporation
+193.160.96.232:80#🇳🇱🛡️NL_(N.tls)FiberXpress BV
+195.123.212.222:80#🇱🇻🛡️LV_(N.tls)Green Floid LLC
+35.157.240.237:8880#🇩🇪🛡️DE_(N.tls)A100 ROW GmbH
+91.90.193.24:2095#🇨🇭🛡️CH_(N.tls)Friendhosting LTD
+37.48.90.120:2095#🇳🇱🛡️NL_(N.tls)LeaseWeb Netherlands B.V.
+168.100.9.81:2086#🇳🇱🛡️NL_(N.tls)BL Networks
+43.156.181.203:2086#🇸🇬🛡️SG_(N.tls)16 COLLYER QUAY
+34.175.202.195:2052#🇪🇸🛡️ES_(N.tls)Google LLC
+18.159.105.97:2052#🇩🇪🛡️DE_(N.tls)A100 ROW GmbH
+104.168.176.241:2095#🇺🇸🛡️US_(N.tls)HostPapa
+135.181.250.100:2082#🇫🇮🛡️FI_(N.tls)Hetzner Online GmbH
+107.175.245.68:2086#🇺🇸🛡️US_(N.tls)RackNerd LLC
+31.133.0.122:2052#🇵🇱🛡️PL_(N.tls)BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
+77.221.143.81:2086#🇸🇪🛡️SE_(N.tls)AEZA GROUP LLC
+139.162.133.162:8080#🇩🇪🛡️DE_(N.tls)139.162.0.0/16
