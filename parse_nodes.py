@@ -15,7 +15,7 @@ NOTLS_PORTS = [80, 8080, 8880, 2052, 2082, 2086, 2095]
 # ایموجی یکسان برای همه کانفیگ‌های NoTls
 NOTLS_EMOJI = "🛡️"
 
-url = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/main/rawProxyList.txt"
+url = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt"
 response = requests.get(url)
 response.raise_for_status()
 
