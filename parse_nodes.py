@@ -15,7 +15,7 @@ NOTLS_PORTS = [80, 8080, 8880, 2052, 2082, 2086, 2095]
 # ایموجی یکسان برای همه کانفیگ‌های NoTls
 NOTLS_EMOJI = "🛡️"
 
-url = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt"
+url = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/main/rawProxyList.txt"
 response = requests.get(url)
 response.raise_for_status()
 
@@ -57,7 +57,6 @@ with open("nodes.txt", "w", encoding="utf-8") as f:
     for node in regular_nodes:
         f.write(f"{node}\n")
 
-# ---- 50 کانفیگ NoTls (فرمت جدید) ----
 # ip:port تکراری با دسته اول مجاز است ولی داخل این دسته تکراری نباشد
 notls_raw = valid_raw[150:]  # ادامه لیست بعد از 150 تا
 notls_nodes = []
