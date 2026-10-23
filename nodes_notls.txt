@@ -1,50 +1,50 @@
-152.69.229.175:8080#🇰🇷🛡️KR_(NoTls)Oracle Corporation
-158.180.49.11:2052#🇩🇪🛡️DE_(NoTls)oracle
-158.101.152.6:8080#🇯🇵🛡️JP_(NoTls)Oracle Public Cloud
-185.195.69.200:8880#🇨🇭🛡️CH_(NoTls)Datasource AG
-54.229.164.147:8080#🇮🇪🛡️IE_(NoTls)Amazon.com
-138.2.48.109:2082#🇯🇵🛡️JP_(NoTls)Oracle Corporation
+217.142.230.253:80#🇯🇵🛡️JP_(NoTls)Oracle Corporation
+77.232.143.39:8080#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
 139.162.133.162:2052#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-139.162.133.162:2095#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-185.174.137.106:2082#🇪🇸🛡️ES_(NoTls)FIRST SERVER
-185.112.82.28:2052#🇫🇮🛡️FI_(NoTls)Creanova
-93.113.171.95:80#🇳🇱🛡️NL_(NoTls)Baxet Group Inc.
-77.221.157.32:2052#🇩🇪🛡️DE_(NoTls)AEZA GROUP LLC
-170.64.152.77:2095#🇦🇺🛡️AU_(NoTls)DigitalOcean
-77.232.143.39:80#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
-158.179.206.143:8080#🇸🇪🛡️SE_(NoTls)oracle
-49.12.243.75:8080#🇩🇪🛡️DE_(NoTls)Hetzner Online GmbH
-43.130.105.166:2086#🇺🇸🛡️US_(NoTls)6 COLLYER QUAY
-65.109.209.200:8080#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
-45.133.118.153:8880#🇳🇱🛡️NL_(NoTls)Hizakura B.V.
-139.162.133.162:8080#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-145.239.85.117:2052#🇵🇱🛡️PL_(NoTls)OVH VPS WAW
-13.250.131.37:2052#🇸🇬🛡️SG_(NoTls)Amazon Data Services Singapore
-38.180.85.203:2095#🇨🇭🛡️CH_(NoTls)3NT SOLUTIONS LLP
-104.128.190.209:2095#🇬🇧🛡️GB_(NoTls)365 Group LLC
-198.244.235.173:2052#🇬🇧🛡️GB_(NoTls)OVH Ltd
-87.120.237.36:2095#🇮🇹🛡️IT_(NoTls)G-Core Labs S.A.
-146.59.19.208:2082#🇵🇱🛡️PL_(NoTls)OVH Sp. z o. o.
-95.217.186.94:2052#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
-92.241.18.106:2095#🇷🇺🛡️RU_(NoTls)JSC Svyazinform
-95.85.89.70:8880#🇪🇸🛡️ES_(NoTls)G-Core Labs Customer assignment
-185.94.164.160:80#🇳🇱🛡️NL_(NoTls)FIRST SERVER LIMITED
-91.192.102.55:2095#🇨🇭🛡️CH_(NoTls)Datasource AG
-139.162.133.162:2086#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-95.216.206.37:80#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
-217.142.138.61:8080#🇰🇷🛡️KR_(NoTls)Oracle Svenska AB
-89.110.68.158:2086#🇳🇱🛡️NL_(NoTls)Amsterdam
-51.195.119.195:8880#🇩🇪🛡️DE_(NoTls)OVH GmbH
-150.230.5.34:8880#🇯🇵🛡️JP_(NoTls)Oracle Corporation
-103.102.228.113:2082#🇳🇱🛡️NL_(NoTls)Individual Entrepreneur Anton Levin
-216.10.243.159:2052#🇮🇳🛡️IN_(NoTls)P.D.R Solutions FZC
-41.76.42.116:2052#🇲🇺🛡️MU_(NoTls)Mauritius Telecom Ltd
-91.149.253.249:8080#🇵🇱🛡️PL_(NoTls)Cloudflare London
-198.46.218.63:2052#🇺🇸🛡️US_(NoTls)RackNerd LLC
-145.239.88.255:80#🇵🇱🛡️PL_(NoTls)OVH VPS WAW
-45.144.49.146:2095#🇵🇱🛡️PL_(NoTls)Newserverlife LLC
-139.162.133.162:2082#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-37.120.186.205:8880#🇩🇪🛡️DE_(NoTls)netcup GmbH
-91.149.239.206:2082#🇺🇸🛡️US_(NoTls)BG-NETWORK
+2.59.183.210:8880#🇳🇱🛡️NL_(NoTls)SERVA ONE LTD
+185.47.172.172:2052#🇮🇹🛡️IT_(NoTls)O.M.C. COMPUTERS & COMMUNICATIONS LTD
+138.2.59.96:80#🇯🇵🛡️JP_(NoTls)Oracle Corporation
+70.34.244.250:8080#🇵🇱🛡️PL_(NoTls)The Constant Company
+45.86.228.104:2086#🇦🇪🛡️AE_(NoTls)BlueVPS OU
+185.103.255.142:2086#🇳🇱🛡️NL_(NoTls)FIRST SERVER
+46.30.41.73:8080#🇳🇱🛡️NL_(NoTls)Iron Hosting Centre Ltd.
+152.67.101.72:2086#🇦🇺🛡️AU_(NoTls)Oracle Public Cloud
+185.82.218.224:2086#🇧🇬🛡️BG_(NoTls)ITLDC EU2.SOF Datacenter Network
+146.235.18.248:2052#🇸🇬🛡️SG_(NoTls)Oracle Corporation
 144.24.87.69:2082#🇰🇷🛡️KR_(NoTls)Oracle Corporation
-217.144.188.147:2052#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
+140.83.57.20:8080#🇯🇵🛡️JP_(NoTls)imported inetnum object for OCPL-1
+179.43.144.10:80#🇨🇭🛡️CH_(NoTls)PRIVATE LAYER INC
+103.45.245.208:2052#🇪🇸🛡️ES_(NoTls)O.M.C. COMPUTERS & COMMUNICATIONS LTD
+147.45.76.69:2086#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
+139.162.133.162:80#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
+185.188.181.14:2082#🇫🇮🛡️FI_(NoTls)PSERVERS Enterprise Network
+172.98.207.58:2082#🇨🇦🛡️CA_(NoTls)CENTRILOGICCANADA
+139.162.133.162:8080#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
+89.110.89.229:2052#🇷🇺🛡️RU_(NoTls)Hosting technology LTD
+192.9.250.241:2086#🇺🇸🛡️US_(NoTls)Oracle Corporation
+5.61.32.232:2052#🇩🇪🛡️DE_(NoTls)3NT Solutions LLP
+164.52.2.100:8880#🇸🇬🛡️SG_(NoTls)UCUL-SG
+45.82.80.96:8880#🇸🇪🛡️SE_(NoTls)Internetport Sweden AB
+164.52.2.99:2082#🇸🇬🛡️SG_(NoTls)UCUL-SG
+92.118.169.4:2052#🇳🇱🛡️NL_(NoTls)Baykov Ilya Sergeevich
+94.103.95.115:2095#🇳🇱🛡️NL_(NoTls)Amsterdam
+46.17.102.93:8080#🇳🇱🛡️NL_(NoTls)HOSTKEY B.V.
+77.220.214.135:80#🇳🇱🛡️NL_(NoTls)Podaon SIA
+130.162.193.183:8080#🇦🇺🛡️AU_(NoTls)Oracle Public Cloud
+192.9.190.80:2095#🇦🇺🛡️AU_(NoTls)Oracle Corporation
+193.160.96.232:2095#🇳🇱🛡️NL_(NoTls)FiberXpress BV
+158.180.49.11:2095#🇩🇪🛡️DE_(NoTls)oracle
+141.148.153.223:8080#🇺🇸🛡️US_(NoTls)Oracle Corporation
+38.180.79.9:8880#🇧🇷🛡️BR_(NoTls)3NT SOLUTIONS LLP
+95.46.1.22:2095#🇷🇺🛡️RU_(NoTls)Stolica Telecom Ltd.
+95.217.186.94:8080#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
+152.70.76.104:2086#🇮🇳🛡️IN_(NoTls)Oracle Corporation
+92.51.36.219:2082#🇩🇪🛡️DE_(NoTls)Timeweb
+150.230.27.23:2052#🇨🇦🛡️CA_(NoTls)Oracle Corporation
+221.125.10.8:2052#🇭🇰🛡️HK_(NoTls)HGC Global Communications Limited
+159.65.162.90:8080#🇺🇸🛡️US_(NoTls)DigitalOcean
+107.173.250.62:2095#🇺🇸🛡️US_(NoTls)RackNerd LLC
+91.107.166.111:2052#🇩🇪🛡️DE_(NoTls)Hetzner Online GmbH
+95.179.140.212:2052#🇳🇱🛡️NL_(NoTls)JW Lucasweg 35
+23.95.113.61:2082#🇺🇸🛡️US_(NoTls)RackNerd LLC
+220.84.186.17:8880#🇰🇷🛡️KR_(NoTls)Korea Telecom
