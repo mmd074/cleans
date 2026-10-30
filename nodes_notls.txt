@@ -1,50 +1,50 @@
-2.56.221.72:80#🇪🇸🛡️ES_(NoTls)G-Core Labs Customer assignment
-45.95.203.214:2086#🇷🇺🛡️RU_(NoTls)FIRST SERVER
-88.218.248.195:80#🇳🇱🛡️NL_(NoTls)GLB Bulut Teknolojisi Limited Sirketi
-89.22.234.0:2086#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
-138.2.49.197:2052#🇯🇵🛡️JP_(NoTls)Oracle Corporation
-82.97.249.34:2095#🇷🇺🛡️RU_(NoTls)Timeweb
-194.53.54.84:80#🇫🇮🛡️FI_(NoTls)PSERVERS Enterprise Network
-159.65.162.90:2052#🇺🇸🛡️US_(NoTls)DigitalOcean
-89.168.68.57:2086#🇩🇪🛡️DE_(NoTls)Oracle Svenska AB
-185.114.72.31:2095#🇪🇸🛡️ES_(NoTls)FIRST SERVER
-43.156.116.194:2086#🇸🇬🛡️SG_(NoTls)6 COLLYER QUAY
-18.184.27.249:8880#🇩🇪🛡️DE_(NoTls)A100 ROW GmbH
-23.108.217.103:2052#🇳🇱🛡️NL_(NoTls)Servers.com B.V.
-212.34.153.65:80#🇳🇱🛡️NL_(NoTls)Amsterdam
-141.148.187.195:8080#🇺🇸🛡️US_(NoTls)Oracle Corporation
-195.54.33.164:2095#🇩🇪🛡️DE_(NoTls)TK Rustelekom LLC
-129.150.36.188:80#🇸🇬🛡️SG_(NoTls)Oracle Corporation
-91.149.239.206:8880#🇺🇸🛡️US_(NoTls)BG-NETWORK
-146.235.59.153:2095#🇧🇷🛡️BR_(NoTls)Oracle Corporation
-47.251.95.178:2082#🇺🇸🛡️US_(NoTls)Alibaba Cloud - US
-139.162.133.162:80#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-217.142.138.61:2082#🇰🇷🛡️KR_(NoTls)Oracle Svenska AB
-217.110.20.141:2086#🇩🇪🛡️DE_(NoTls)Colt DC
-94.142.137.72:2052#🇳🇱🛡️NL_(NoTls)FIRST SERVER
-37.120.186.205:8080#🇩🇪🛡️DE_(NoTls)netcup GmbH
-138.2.18.82:8080#🇯🇵🛡️JP_(NoTls)Oracle Corporation
-41.76.42.118:2082#🇲🇺🛡️MU_(NoTls)Mauritius Telecom Ltd
-212.237.219.99:2086#🇫🇮🛡️FI_(NoTls)HOSTKEY B.V.
-95.85.89.70:80#🇪🇸🛡️ES_(NoTls)G-Core Labs Customer assignment
-5.34.176.119:2052#🇸🇬🛡️SG_(NoTls)Green Floid LLC
-147.45.196.240:8880#🇩🇪🛡️DE_(NoTls)nuxtcloud
-80.85.246.195:2082#🇳🇱🛡️NL_(NoTls)Amsterdam
-176.97.66.175:8080#🇦🇪🛡️AE_(NoTls)3NT Solutions LLP
-139.162.133.162:8080#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-74.121.150.129:2052#🇺🇸🛡️US_(NoTls)IT7 Networks Inc
-201.149.15.14:2052#🇲🇽🛡️MX_(NoTls)Megacable Comunicaciones de Mexico
-141.148.153.223:2052#🇺🇸🛡️US_(NoTls)Oracle Corporation
-104.234.50.53:2095#🇺🇸🛡️US_(NoTls)Private Customer
-158.101.39.0:2095#🇺🇸🛡️US_(NoTls)Oracle Public Cloud
-89.22.228.114:2082#🇩🇪🛡️DE_(NoTls)AEZA GROUP LLC
-198.244.235.173:8880#🇬🇧🛡️GB_(NoTls)OVH Ltd
-139.162.133.162:8880#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
-81.22.132.183:2082#🇳🇱🛡️NL_(NoTls)Internet Utilities Europe and Asia Limited
-45.63.114.83:8080#🇫🇷🛡️FR_(NoTls)Vultr Holdings
-95.171.21.193:2086#🇷🇺🛡️RU_(NoTls)Universum bit Ltd.
+18.184.55.249:2082#🇩🇪🛡️DE_(NoTls)A100 ROW GmbH
+91.245.225.79:2095#🇨🇭🛡️CH_(NoTls)GLB Bulut Teknolojisi Limited Sirketi
+81.200.158.206:80#🇷🇺🛡️RU_(NoTls)JSC TIMEWEB
+130.162.193.183:2082#🇦🇺🛡️AU_(NoTls)Oracle Public Cloud
+37.120.186.205:8880#🇩🇪🛡️DE_(NoTls)netcup GmbH
+212.22.74.89:2052#🇳🇱🛡️NL_(NoTls)Baykov Ilya Sergeevich
+129.152.2.127:2082#🇮🇹🛡️IT_(NoTls)Oracle Corporation
+192.9.190.80:2052#🇦🇺🛡️AU_(NoTls)Oracle Corporation
+159.65.94.176:8080#🇬🇧🛡️GB_(NoTls)DigitalOcean
+82.64.152.55:80#🇫🇷🛡️FR_(NoTls)Free SAS
+212.34.153.65:2082#🇳🇱🛡️NL_(NoTls)Amsterdam
+213.183.61.100:2082#🇳🇱🛡️NL_(NoTls)Melbicom infrastructure
+91.149.223.242:2095#🇩🇪🛡️DE_(NoTls)Baxet Group Inc.
+45.155.249.66:2052#🇳🇱🛡️NL_(NoTls)servinga GmbH
+5.61.32.232:80#🇩🇪🛡️DE_(NoTls)3NT Solutions LLP
+49.12.243.75:8880#🇩🇪🛡️DE_(NoTls)Hetzner Online GmbH
+150.230.5.34:2095#🇯🇵🛡️JP_(NoTls)Oracle Corporation
+43.156.181.203:8880#🇸🇬🛡️SG_(NoTls)16 COLLYER QUAY
+95.140.157.183:2052#🇩🇪🛡️DE_(NoTls)lease for Timeweb
+147.45.196.240:8080#🇩🇪🛡️DE_(NoTls)nuxtcloud
+164.92.219.230:2095#🇳🇱🛡️NL_(NoTls)DigitalOcean
+45.138.72.141:80#🇩🇪🛡️DE_(NoTls)GTELCOM LLC
+89.110.89.229:2086#🇷🇺🛡️RU_(NoTls)Hosting technology LTD
+145.239.85.117:8080#🇵🇱🛡️PL_(NoTls)OVH VPS WAW
+213.183.51.71:8080#🇳🇱🛡️NL_(NoTls)Melbicom infrastructure
+87.120.237.36:2086#🇮🇹🛡️IT_(NoTls)G-Core Labs S.A.
+144.22.204.102:2086#🇧🇷🛡️BR_(NoTls)Oracle Corporation
+164.52.2.99:8880#🇸🇬🛡️SG_(NoTls)UCUL-SG
+201.149.15.14:2086#🇲🇽🛡️MX_(NoTls)Megacable Comunicaciones de Mexico
+18.184.27.249:8080#🇩🇪🛡️DE_(NoTls)A100 ROW GmbH
+138.2.74.219:2095#🇸🇬🛡️SG_(NoTls)Cloudflare London
+103.45.247.67:2086#🇳🇱🛡️NL_(NoTls)O.M.C. COMPUTERS & COMMUNICATIONS LTD
+89.150.35.129:8880#🇳🇱🛡️NL_(NoTls)CLODO CLOUD SERVICE CO. L.L.C
+20.235.105.146:2052#🇮🇳🛡️IN_(NoTls)Microsoft Corporation
+77.91.69.141:8080#🇮🇱🛡️IL_(NoTls)Webhost LLC
+147.45.72.32:80#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
 77.221.136.148:8080#🇩🇪🛡️DE_(NoTls)AEZA GROUP LLC
-18.197.218.69:80#🇩🇪🛡️DE_(NoTls)A100 ROW GmbH
-152.67.101.72:2082#🇦🇺🛡️AU_(NoTls)Oracle Public Cloud
-77.232.143.39:8080#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
-158.101.154.245:8080#🇯🇵🛡️JP_(NoTls)Oracle Public Cloud
+185.66.165.51:2095#🇩🇪🛡️DE_(NoTls)Perfecto Mobile UK Ltd (/24 used in Germany)
+94.103.95.115:8080#🇳🇱🛡️NL_(NoTls)Amsterdam
+217.144.188.147:80#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
+194.0.194.237:8080#🇳🇱🛡️NL_(NoTls)SkyCore Technologies L.L.C-FZ
+221.125.10.8:8880#🇭🇰🛡️HK_(NoTls)HGC Global Communications Limited
+43.130.105.166:2095#🇺🇸🛡️US_(NoTls)6 COLLYER QUAY
+185.104.181.228:2086#🇷🇴🛡️RO_(NoTls)DataNode DC SRL
+38.180.79.9:2095#🇧🇷🛡️BR_(NoTls)3NT SOLUTIONS LLP
+54.229.164.147:2082#🇮🇪🛡️IE_(NoTls)Amazon.com
+185.82.218.224:80#🇧🇬🛡️BG_(NoTls)ITLDC EU2.SOF Datacenter Network
+149.28.21.106:2082#🇯🇵🛡️JP_(NoTls)Vultr Holdings
+94.241.174.229:2095#🇳🇱🛡️NL_(NoTls)Timeweb
+23.95.61.179:8080#🇺🇸🛡️US_(NoTls)RackNerd LLC
