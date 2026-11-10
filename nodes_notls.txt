@@ -1,50 +1,50 @@
-89.22.234.0:2095#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
-18.197.218.69:2082#🇩🇪🛡️DE_(NoTls)A100 ROW GmbH
-147.75.230.33:8880#🇺🇸🛡️US_(NoTls)Aryaka Networks
-95.216.148.189:8080#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
-65.109.209.200:2082#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
-139.28.221.213:2095#🇫🇮🛡️FI_(NoTls)PSERVERS Enterprise Network
-38.180.100.80:8080#🇷🇸🛡️RS_(NoTls)3NT SOLUTIONS LLP
-217.142.250.195:2052#🇯🇵🛡️JP_(NoTls)Oracle Corporation
-195.123.241.122:2086#🇺🇸🛡️US_(NoTls)Total server solutions LLC
-167.234.216.84:2095#🇺🇸🛡️US_(NoTls)Oracle Corporation
-185.94.165.207:8080#🇳🇱🛡️NL_(NoTls)FIRST SERVER
-88.198.18.246:2086#🇩🇪🛡️DE_(NoTls)HOS-512604
-138.2.59.96:2086#🇯🇵🛡️JP_(NoTls)Oracle Corporation
-185.188.181.14:8880#🇫🇮🛡️FI_(NoTls)PSERVERS Enterprise Network
-147.135.10.209:8080#🇺🇸🛡️US_(NoTls)OVH US LLC
-198.46.218.63:2086#🇺🇸🛡️US_(NoTls)RackNerd LLC
-156.154.245.83:8080#🇦🇪🛡️AE_(NoTls)Arbor Cloud
-51.159.6.227:2095#🇫🇷🛡️FR_(NoTls)Scaleway
-51.195.119.195:2095#🇩🇪🛡️DE_(NoTls)OVH GmbH
-212.193.1.208:2095#🇳🇱🛡️NL_(NoTls)Baxet Group Inc.
-212.113.116.93:8880#🇩🇪🛡️DE_(NoTls)AEZA GROUP LLC
-38.180.85.203:2086#🇨🇭🛡️CH_(NoTls)3NT SOLUTIONS LLP
-43.156.181.203:2082#🇸🇬🛡️SG_(NoTls)16 COLLYER QUAY
-45.82.80.96:8080#🇸🇪🛡️SE_(NoTls)Internetport Sweden AB
-89.168.68.57:80#🇩🇪🛡️DE_(NoTls)Oracle Svenska AB
-45.76.198.248:2086#🇯🇵🛡️JP_(NoTls)Vultr Holdings
-31.58.137.94:8080#🇱🇻🛡️LV_(NoTls)Private Customer
-176.124.205.119:2095#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
-49.12.243.75:2052#🇩🇪🛡️DE_(NoTls)Hetzner Online GmbH
-5.181.158.96:2086#🇲🇩🛡️MD_(NoTls)MivoCloud
-95.140.157.183:2052#🇩🇪🛡️DE_(NoTls)lease for Timeweb
-23.94.43.51:2086#🇺🇸🛡️US_(NoTls)RackNerd LLC
-164.52.2.98:2082#🇸🇬🛡️SG_(NoTls)UCUL-SG
-104.128.190.209:80#🇬🇧🛡️GB_(NoTls)365 Group LLC
-152.228.191.232:80#🇫🇷🛡️FR_(NoTls)SEVIN Jacques
-125.7.24.251:2082#🇦🇺🛡️AU_(NoTls)Macquarie Telecom
-85.198.109.79:80#🇷🇺🛡️RU_(NoTls)Hosting technology LTD
-51.38.44.17:2095#🇫🇷🛡️FR_(NoTls)OVH SAS
-43.130.105.166:8880#🇺🇸🛡️US_(NoTls)6 COLLYER QUAY
-195.133.39.185:2082#🇳🇱🛡️NL_(NoTls)Individual Entrepreneur Anton Levin
-150.230.27.23:2052#🇨🇦🛡️CA_(NoTls)Oracle Corporation
-150.230.214.172:8080#🇯🇵🛡️JP_(NoTls)Oracle Corporation
-23.95.113.61:8080#🇺🇸🛡️US_(NoTls)RackNerd LLC
-2.56.221.72:80#🇪🇸🛡️ES_(NoTls)G-Core Labs Customer assignment
-95.216.148.189:8880#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
-38.180.79.9:80#🇧🇷🛡️BR_(NoTls)3NT SOLUTIONS LLP
-151.115.61.151:2052#🇵🇱🛡️PL_(NoTls)Warsaw
-144.24.195.115:2095#🇫🇷🛡️FR_(NoTls)Oracle Corp UK Ltd
-145.239.85.117:2086#🇵🇱🛡️PL_(NoTls)OVH VPS WAW
-92.51.36.219:80#🇩🇪🛡️DE_(NoTls)Timeweb
+94.242.53.158:2095#🇷🇺🛡️RU_(NoTls)SIA VEESP
+146.235.209.40:2095#🇺🇸🛡️US_(NoTls)Oracle Corporation
+170.64.152.77:8880#🇦🇺🛡️AU_(NoTls)DigitalOcean
+49.12.243.75:80#🇩🇪🛡️DE_(NoTls)Hetzner Online GmbH
+45.95.203.214:8880#🇷🇺🛡️RU_(NoTls)FIRST SERVER
+77.232.143.39:2095#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
+194.58.33.218:80#🇩🇪🛡️DE_(NoTls)nuxtcloud
+144.24.87.69:2086#🇰🇷🛡️KR_(NoTls)Oracle Corporation
+185.103.255.142:8880#🇳🇱🛡️NL_(NoTls)FIRST SERVER
+213.170.157.1:80#🇺🇸🛡️US_(NoTls)RedShield Security Ltd
+167.234.216.84:8080#🇺🇸🛡️US_(NoTls)Oracle Corporation
+81.95.4.189:2086#🇩🇪🛡️DE_(NoTls)F3 Netze e.V.
+45.77.25.6:2082#🇯🇵🛡️JP_(NoTls)Vultr Holdings
+146.235.59.153:8880#🇧🇷🛡️BR_(NoTls)Oracle Corporation
+217.144.188.147:8880#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
+139.162.145.35:80#🇩🇪🛡️DE_(NoTls)139.162.0.0/16
+23.94.213.132:2086#🇺🇸🛡️US_(NoTls)HostPapa
+138.2.74.219:2052#🇸🇬🛡️SG_(NoTls)Cloudflare London
+158.101.154.245:80#🇯🇵🛡️JP_(NoTls)Oracle Public Cloud
+91.107.166.26:80#🇩🇪🛡️DE_(NoTls)Hetzner Online GmbH
+89.22.234.0:80#🇫🇮🛡️FI_(NoTls)AEZA GROUP LLC
+5.181.158.96:8080#🇲🇩🛡️MD_(NoTls)MivoCloud
+38.180.78.255:8880#🇧🇷🛡️BR_(NoTls)3NT SOLUTIONS LLP
+135.181.250.100:8080#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
+212.34.153.65:80#🇳🇱🛡️NL_(NoTls)Amsterdam
+82.64.152.55:2086#🇫🇷🛡️FR_(NoTls)Free SAS
+217.142.250.195:8080#🇯🇵🛡️JP_(NoTls)Oracle Corporation
+70.34.244.250:80#🇵🇱🛡️PL_(NoTls)The Constant Company
+147.45.245.15:2082#🇷🇺🛡️RU_(NoTls)JSC TIMEWEB
+152.32.181.246:2086#🇦🇪🛡️AE_(NoTls)UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2.56.221.72:2052#🇪🇸🛡️ES_(NoTls)G-Core Labs Customer assignment
+95.216.148.189:2086#🇫🇮🛡️FI_(NoTls)Hetzner Online GmbH
+107.173.30.154:2086#🇺🇸🛡️US_(NoTls)ColoCrossing
+193.17.183.166:8080#🇪🇸🛡️ES_(NoTls)HUIZE LTD
+129.159.84.71:8080#🇺🇸🛡️US_(NoTls)Oracle Corporation
+18.184.27.249:8080#🇩🇪🛡️DE_(NoTls)A100 ROW GmbH
+45.63.114.83:2082#🇫🇷🛡️FR_(NoTls)Vultr Holdings
+195.123.211.204:2095#🇱🇻🛡️LV_(NoTls)Green Floid LLC
+216.173.71.171:80#🇱🇻🛡️LV_(NoTls)SIA VEESP
+185.114.72.31:80#🇪🇸🛡️ES_(NoTls)FIRST SERVER
+79.137.197.212:2086#🇳🇱🛡️NL_(NoTls)AEZA GROUP LLC
+152.228.191.232:8880#🇫🇷🛡️FR_(NoTls)SEVIN Jacques
+43.156.116.194:8080#🇸🇬🛡️SG_(NoTls)6 COLLYER QUAY
+185.195.69.209:8880#🇨🇭🛡️CH_(NoTls)Datasource AG
+95.140.157.183:2095#🇩🇪🛡️DE_(NoTls)lease for Timeweb
+5.196.27.246:8880#🇫🇷🛡️FR_(NoTls)OVH SAS
+89.110.68.158:2052#🇳🇱🛡️NL_(NoTls)Amsterdam
+18.184.55.249:80#🇩🇪🛡️DE_(NoTls)A100 ROW GmbH
+104.234.50.53:2095#🇺🇸🛡️US_(NoTls)Private Customer
+194.58.39.80:2086#🇳🇱🛡️NL_(NoTls)Baxet Group Inc.
